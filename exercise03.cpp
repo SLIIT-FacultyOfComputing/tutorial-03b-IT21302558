@@ -16,10 +16,10 @@ struct Box{
 int main() {
     // 2. Create a variable called box1 of the Box structure type
     // int box1Height, box1Width, box1Length;
-     
+    Box box1;
     // 3. Create a variable called box2 of the Box structure type
     // int box2Height, box2Width, box2Length;
-    
+    Box box2;
     int totalVolume;
     
     // 4. Input the height, width, lenght of box1 and box2
